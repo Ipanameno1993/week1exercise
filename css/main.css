@@ -1,0 +1,16 @@
+.nav{
+	background-color: black;
+	margin:16px;
+	padding:24px; 
+}
+
+li{
+	background-color: green;
+	display: inline;
+	padding:25px;
+}
+
+.box {
+ float: left;
+ width:50%;
+}
